@@ -1,2 +1,2 @@
 # Sepal_petal
-predicting sepal or petal ,using inbuilt dataset present in sklearn
+predicting setosa, versicolor, virginica using inbuilt dataset present in sklearn
